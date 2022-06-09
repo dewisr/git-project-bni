@@ -15,3 +15,8 @@ Dewi Sri Rezeki
 Dewi Zsaqia
 Lia Monica
 Firlia
+
+## Pending Task
+1. create function for authentification
+2. Add trello board to README
+3. Add other contributors
