@@ -1,3 +1,10 @@
 Ryan = 23
 Bobby = 22
 Ran = 25
+Dewi = 25
+Ghifari = 26
+Rifki = 30
+Nurhasanah = 25
+Jack Ma = 35
+Jonny = 28
+Sandy = 29
