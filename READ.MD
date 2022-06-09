@@ -20,3 +20,4 @@ Firlia
 1. create function for authentification
 2. Add trello board to README
 3. Add other contributors
+4. Fork the repository
